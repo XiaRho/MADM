@@ -1,0 +1,15 @@
+ipywidgets
+diffusers==0.25.0
+accelerate==0.29.2
+numpy==1.23.0
+boto3
+diffdist==0.1
+opencv-python==4.6.0.66
+nltk>=3.6.2
+open-clip-torch==2.0.2
+stable-diffusion-sdkit==2.1.3
+wandb
+timm==0.6.11
+pillow==9.0.1
+peft==0.10.0
+huggingface-hub==0.20.3
