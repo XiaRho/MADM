@@ -2,7 +2,7 @@
 by Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Bo Li, Yang Tang, and Pan Zhou
 
 <div align="center">
-<a href="https://arxiv.org/abs/xxxx.xxxxx"><img src='https://img.shields.io/badge/arXiv-MADM-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2410.21708"><img src='https://img.shields.io/badge/arXiv-MADM-red' alt='Paper PDF'></a>
 </div>
 
 ## :sparkles: Overview
@@ -124,7 +124,7 @@ If you find this project useful, please consider citing:
 @article{MADM,
   title={Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation},
   author={Xia, Ruihao and Liang, Yu and Jiang, Peng-Tao and Zhang, Hao and Li, Bo and Tang, Yang and Zhou, Pan},
-  journal={arXiv:xxxx.xxxxx},
+  journal={arXiv:2410.21708},
   year={2024}
 }
 ```
