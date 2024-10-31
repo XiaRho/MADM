@@ -72,7 +72,9 @@ path/to/datasets
 
 ## :video_game: Training
 
-Training our MADM requires 2 GPUs with greater than 40GB of memory.
+Following the [examples](https://huggingface.co/CompVis/stable-diffusion-v1-4) in huggingface to automatically download the stable-diffusion-v1-4 model and modify the `stable_diffusion_name_or_path` in `config_files/common/models/mtmadise_multi_lora.py`.
+
+* Training our MADM requires 2 GPUs with greater than 40GB of memory.
 
 1. Cityscapes (RGB) &rarr; DELIVER (Depth)
 ```
